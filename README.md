@@ -2,7 +2,7 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-# Replace 'your_file.xlsx' with the path to your Excel file
+# Import the data from Excel file
 file_path = 'firedata.xlsx'
 
 # Read the Excel file into a pandas DataFrame
